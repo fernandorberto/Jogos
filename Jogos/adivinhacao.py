@@ -3,6 +3,7 @@ import random
 print("*********************************")
 print("Bem vindo ao jogo de Adivinhação!")
 print("*********************************")
+print("Created By: Fernando Berto")
 
 numero_secreto = random.randrange(1,101)
 total_de_tentativas = 3
